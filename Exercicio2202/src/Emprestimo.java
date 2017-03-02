@@ -1,3 +1,12 @@
+/*
+ * Questão 1 de Lista_Java_basico_fujioka_22_02_2017.docx
+ * 
+ * Allan Roque Barbosa da Silva - 1610013738
+ * Fernando Velloso Borges de Mélo Gomes - 1610013276
+ * 
+ * CC P3 Noite
+ * 
+ */
 
 public class Emprestimo {
 
